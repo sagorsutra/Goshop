@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "656800777231",
+    "project_id": "goshop-c3112",
+    "storage_bucket": "goshop-c3112.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656800777231:android:a3f6f9208026d9835b0f7a",
+        "android_client_info": {
+          "package_name": "com.smartherd.goshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJDMYoKAKH97Gwj5vEec5FrboJGiGwGLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
